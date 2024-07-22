@@ -1,1 +1,4 @@
 # Housing-Price-Analysis
+Executive Summary
+Using housing price data and economic indicators, I conducted a comprehensive analysis to understand the factors influencing housing prices in various cities across the USA over the past 20+ years. The analysis was powered by data retrieved through the FRED API, which provided essential economic indicators such as GDP, per capita income, and real interest rates. Key findings show that cities like Los Angeles, San Francisco, and Miami experienced 4 times price increase, whereas cities like Detroit, Cleveland, and Chicago saw 2 times increase. Nationally, housing prices increased 6 times. The analysis highlights the impact of these economic indicators on housing prices and provides actionable insights for investment, policy recommendations, and measures for real estate companies.
+
