@@ -5,10 +5,10 @@ Using housing price data and economic indicators, I conducted a comprehensive an
 Housing prices are crucial for both the real estate market and the broader economy. The increase in housing prices has led to a reduction in housing sales—a trend where higher prices result in decreased sales. Real estate investors need to take note of this trend as it impacts market dynamics and profitability. The goal is to identify the factors driving these price changes, understand their implications, and provide strategies for addressing affordability and improving market stability.
 
 ## Methodology
-- •	**Collected** historical housing price data for various cities and economic indicators such as GDP, per capita income, and real interest rates using the FRED API.
-- •	**Cleaned** and preprocessed the data for analysis.
-- •	**Conducted** exploratory data analysis to compare housing price trends, visualize relationships with economic indicators, and created a correlation heat map.
-- •	**Quantified** the impact of economic factors on housing prices and analyzed differences in price increases across cities.
+- 	**Collected** historical housing price data for various cities and economic indicators such as GDP, per capita income, and real interest rates using the FRED API.
+- 	**Cleaned** and preprocessed the data for analysis.
+- 	**Conducted** exploratory data analysis to compare housing price trends, visualize relationships with economic indicators, and created a correlation heat map.
+- 	**Quantified** the impact of economic factors on housing prices and analyzed differences in price increases across cities.
 
 
 
