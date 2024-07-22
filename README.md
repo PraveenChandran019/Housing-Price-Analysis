@@ -25,7 +25,7 @@ Housing prices are crucial for both the real estate market and the broader econo
   	The USA as a whole: 6 times price increase.
 
 ### Economic Implications:
-        The significant increase in housing prices has led to a reduction in housing sales, a common trend where higher prices result in decreased sales.
+-        The significant increase in housing prices has led to a reduction in housing sales, a common trend where higher prices result in decreased sales.
 
 ### Factors Influencing Housing Prices:
 -	GDP (Gross Domestic Product):
