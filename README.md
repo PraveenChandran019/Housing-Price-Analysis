@@ -10,5 +10,42 @@ Housing prices are crucial for both the real estate market and the broader econo
 - 	**Conducted** exploratory data analysis to compare housing price trends, visualize relationships with economic indicators, and created a correlation heat map.
 - 	**Quantified** the impact of economic factors on housing prices and analyzed differences in price increases across cities.
 
+## Skills Utilized
+-	**Python**: Pandas, Matplotlib, writing functions, statistic
+-	**API**: Understanding of API, specifically the FRED API
+-	**Economics**: Understanding of economic indicators and their impact on housing prices
 
+## Results & Business Recommendations
+### Key Findings:
+- Higher Increase:
+  	Los Angeles, San Francisco, Miami: 4 times price increase in the last 20+ years.
+-	Lower Increase:
+  	Detroit, Cleveland, Chicago: 2 times price increase.
+-	National Trend:
+  	The USA as a whole: 6 times price increase.
 
+### Economic Implications:
+The significant increase in housing prices has led to a reduction in housing sales, a common trend where higher prices result in decreased sales.
+
+### Factors Influencing Housing Prices:
+-	GDP (Gross Domestic Product):
+  	Positive impact: As GDP increases, the money in people's hands increases, leading to higher demand for housing. This results in increased housing prices.
+-	Per Capita Income:
+  	Positive impact: Similar to GDP, an increase in per capita income means more money for people to spend, increasing the demand for housing and thus, housing prices.
+-	Real Interest Rate:
+  	Negative impact: Real interest rate is the interest adjusted for inflation. A decrease in the real interest rate makes loans cheaper, increasing the money in people's hands, which leads to higher demand for housing.
+
+### Investment Opportunities:
+	  Cities like Miami, Los Angeles, and San Francisco, which have experienced significant price increases, present profitable opportunities for real estate investment.
+
+### Measures for Real Estate Companies:
+-	Affordable Housing Solutions:
+    Adapt marketing strategies to focus on affordable housing solutions to cater to a broader audience.
+-	Government Collaboration:
+  	Collaborate with local governments to develop affordable housing projects and benefit from potential subsidies or incentives.
+-	Customer Education:
+  	Enhance customer education programs to help buyers understand the impact of economic factors on housing prices and make informed decisions.
+
+### Policy Recommendations:
+-	Interest Rate Adjustments:
+   	To make housing more affordable, the government can consider increasing interest rates. Higher interest rates would reduce the demand for home loans, potentially leading to a decrease in housing prices, making it easier for people to afford homes.
