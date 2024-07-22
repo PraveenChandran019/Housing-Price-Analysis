@@ -23,10 +23,7 @@ Housing prices are crucial for both the real estate market and the broader econo
   	Detroit, Cleveland, Chicago: 2 times price increase.
 -	National Trend:
   	The USA as a whole: 6 times price increase.
-
-### Economic Implications:
--        The significant increase in housing prices has led to a reduction in housing sales, a common trend where higher prices result in decreased sales.
-
+ 	
 ### Factors Influencing Housing Prices:
 -	GDP (Gross Domestic Product):
   	Positive impact: As GDP increases, the money in people's hands increases, leading to higher demand for housing. This results in increased housing prices.
