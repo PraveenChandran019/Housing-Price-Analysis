@@ -32,8 +32,6 @@ Housing prices are crucial for both the real estate market and the broader econo
 -	Real Interest Rate:
   	Negative impact: Real interest rate is the interest adjusted for inflation. A decrease in the real interest rate makes loans cheaper, increasing the money in people's hands, which leads to higher demand for housing.
 
-### Investment Opportunities:
-	  Cities like Miami, Los Angeles, and San Francisco, which have experienced significant price increases, present profitable opportunities for real estate investment.
 
 ### Measures for Real Estate Companies:
 -	Affordable Housing Solutions:
