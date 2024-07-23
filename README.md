@@ -26,15 +26,15 @@ Housing prices are crucial for both the real estate market and the broader econo
 -	National Trend:
   	The USA as a whole: 6 times price increase.
  	
-### Factors Influencing Housing Prices:
+### Major Factors Influencing Housing Prices:
 -	GDP (Gross Domestic Product):
   	Positive impact: As GDP increases, the money in people's hands increases, leading to higher demand for housing. This results in increased housing prices.
 -	Per Capita Income:
   	Positive impact: Similar to GDP, an increase in per capita income means more money for people to spend, increasing the demand for housing and thus, housing prices.
 -	Real Interest Rate:
   	Negative impact: Real interest rate is the interest adjusted for inflation. A decrease in the real interest rate makes loans cheaper, increasing the money in people's hands, which leads to higher demand for housing.
-![plot7](https://github.com/user-attachments/assets/2e8ef181-331a-482d-97ab-ba4038949d9f)
-![plot8](https://github.com/user-attachments/assets/ecf3d20a-d3ea-4f00-a7dc-22a6a324b174)
+![plot7](https://github.com/user-attachments/assets/2e8ef181-331a-482d-97ab-ba4038949d9f)  ![plot8](https://github.com/user-attachments/assets/ecf3d20a-d3ea-4f00-a7dc-22a6a324b174)
+
 ![plot9](https://github.com/user-attachments/assets/01dba40a-8d59-4daa-af3b-92df85b52088)
 
 
